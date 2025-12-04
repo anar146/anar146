@@ -26,7 +26,7 @@
   <a href="https://instagram.com/your_instagram_handle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
   </a>
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME" target="_blank">
+  <a href="https://www.buymeacoffee.com/anar146" target="_blank">
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
