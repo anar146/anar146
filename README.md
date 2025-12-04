@@ -54,7 +54,6 @@
 
 ### 🎯 Fun Badge Zone  
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20Programming-Expert-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Dev-Creative-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Foodie-Poha%20Lover-green?style=for-the-badge" />
 </p>
