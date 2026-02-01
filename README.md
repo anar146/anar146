@@ -8,12 +8,12 @@
 ---
 
 ### 🌟 About Me  
-- 👨‍💻 I am a **17-year-old First Sem B.Tech CS Student**.
-- 🔭 Currently working on **ClimaGlobe (3D Weather App)** & a **Watch Party Website**.  
+- 👨‍💻 I am a **18-year-old Second Sem B.Tech CS Student**.
+- 🔭 Currently working on **ClimaGlobe (3D Weather App)** .
 - 🌱 Learning **Advanced C**, **Python**, and **Flutter**.  
 - 🤝 Open to collaborating on **Web Development** projects.  
 - 💬 Ask me about **C Programming, HTML, CSS, JavaScript, and Logic Building**.  
-- 📫 Reach me at **[Your Email Here]** - ⚡ Fun fact: **I make the best Poha and love playing Garba! 🥘💃** ---
+- 📫 Reach me at **[warmitul48@gmail.com]** - ⚡ Fun fact: **I make the best Poha and love playing Garba! 🥘💃** ---
 
 ### 📌 Quick Links  
 <p align="center">
